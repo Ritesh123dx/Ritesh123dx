@@ -9,7 +9,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Ritesh123dx&label=Profile%20Visits&color=blue&style=plastic%22%20alt=%22imKashyap" /> </p>
 
 
-- 👋 I'm a software engineer at Medly.
+- 👋 I'm a software engineer at OLA.
 - 👀 I’m interested in programming, data structures and algorithms, backend development and distributed systems.
 - 🔭 I’m currently working on my system design skills.
 - 🌱 I’m currently learning Docker and Kubernetes.
